@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/tec.svg</file>
+
+        <file>icons/3d-black.svg</file>
+        <file>icons/3d-white.svg</file>
+        <file>icons/3d3d-black.svg</file>
+        <file>icons/3d3d-white.svg</file>
+
+        <file>icons/cursorLine-black.svg</file>
+        <file>icons/cursorLine-white.svg</file>
+
+
+    </qresource>
+</RCC> 
